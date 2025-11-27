@@ -14,7 +14,7 @@ This application is built to demonstrate advanced animation techniques using Fra
 
 ---
 
-## Project Preview
+## Project Preview (wait for the gifs to load)
 
 <h3 align="center">Animation Demos</h3>
 
