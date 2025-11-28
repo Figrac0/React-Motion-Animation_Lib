@@ -46,7 +46,7 @@ This application is built to demonstrate advanced animation techniques using Fra
   <em>Interactive challenges with animated tabs and modal interactions</em>
 </p>
 
----
+</div>
 
 ##  Framer Motion Implementation
 
