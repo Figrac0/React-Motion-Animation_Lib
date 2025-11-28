@@ -10,7 +10,7 @@ A comprehensive demonstration project showcasing the powerful capabilities of Fr
 
 <a href="https://react-motion-animation-lib.vercel.app/" target="_blank" style="text-decoration: none;">
   <div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 15px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 18px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3); transition: all 0.3s ease; border: 2px solid white;">
-    🎬 Animation Demo
+    🎬 Project Overview
   </div>
 </a>
 
