@@ -2,6 +2,8 @@
 
 A comprehensive demonstration project showcasing the powerful capabilities of Framer Motion for creating stunning, performant animations in React applications. This project serves as a practical example of how to implement complex animations, parallax effects, and interactive UI components using modern web technologies.
 
+---
+
 <div align="center">
 
 <h3>🎯 Quick Access - Click Below to Visit</h3>
@@ -15,6 +17,8 @@ A comprehensive demonstration project showcasing the powerful capabilities of Fr
 </a>
 
 </div>
+
+---
 
 ##  Project Overview
 
