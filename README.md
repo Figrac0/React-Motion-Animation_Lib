@@ -17,7 +17,7 @@ A comprehensive demonstration project showcasing the powerful capabilities of Fr
 </a>
 
 </div>
-
+</div>
 ---
 
 ##  Project Overview
